@@ -70,7 +70,8 @@
 
 ~~33. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - 🔴 Hard~~
 
-34. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 🟡 Medium
+~~34. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 🟡 Medium~~
+
 35. [Reorder List](https://leetcode.com/problems/reorder-list/) - 🟡 Medium
 36. [Add 1 to a number represented as a linked list](https://leetcode.com/problems/plus-one-linked-list/) - 🟡 Medium
 37. [Find the middle of a given linked list](https://leetcode.com/problems/middle-of-the-linked-list/) - 🟢 Easy
