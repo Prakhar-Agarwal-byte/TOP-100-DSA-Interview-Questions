@@ -72,10 +72,13 @@
 
 ~~34. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - 🟡 Medium~~
 
-35. [Reorder List](https://leetcode.com/problems/reorder-list/) - 🟡 Medium
-36. [Add 1 to a number represented as a linked list](https://leetcode.com/problems/plus-one-linked-list/) - 🟡 Medium
-37. [Find the middle of a given linked list](https://leetcode.com/problems/middle-of-the-linked-list/) - 🟢 Easy
-38. [Delete last occurrence of an item from a linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - 🟡 Medium
+~~35. [Reorder List](https://leetcode.com/problems/reorder-list/) - 🟡 Medium~~
+
+~~36. [Add 1 to a number represented as a linked list](https://leetcode.com/problems/plus-one-linked-list/) - 🟡 Medium~~
+
+~~37. [Find the middle of a given linked list](https://leetcode.com/problems/middle-of-the-linked-list/) - 🟢 Easy~~
+
+~~38. [Delete last occurrence of an item from a linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) - 🟡 Medium~~
 
 ## 4. Stacks and Queues
 39. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - 🟢 Easy
